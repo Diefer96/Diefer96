@@ -1,28 +1,12 @@
-## Hi there 👋
+# 👨‍🔬 Diego Hinojosa  
+**Diefer96** 
 
-<!--
-**Diefer96/Diefer96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniero Químico | Estudiante de Maestría**  
 
-Here are some ideas to get you started:
-# 👋 Hola, soy [Diego Hinojosa]
-
-**Ingeniero/a de Procesos & Modelado | [🌐 Ver Currículum](https://www.linkedin.com/in/diegohinojosazambranoiq/)**
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegohinojosazambranoiq/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Diego-Hinojosa-Zambrano?ev=hdr_xprf)
 
 ---
 
-## 🛠️ Proceso de Diseño de Ingeniería
+## 🚀 Chemical Engineer
 
-```mermaid
-graph TD
-    A[Identificar el problema] --> B[Lluvia de ideas]
-    B --> C[Seleccionar un diseño]
-    C --> D[Construir modelo o prototipo]
-    D --> E[Probar y evaluar]
-    E --> F[Compartir la solución]
-    
-    subgraph Tren de Compresión
-    G[Suction Manifold] --> H[LP Compressor 312-V-101]
-    H --> I[Interstage Cooler 312-E-101A]
-    I --> J[HP Compressor 312-C-102A]
-    J --> K[Discharge Manifold]
-    end
